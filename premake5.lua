@@ -1,4 +1,4 @@
-workspace "CS5343_001_Assignment3"
+workspace "TowerOfHanoi"
    configurations { "Debug", "Release" }
    architecture "x86_64"
    location "build"
